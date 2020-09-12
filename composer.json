@@ -26,15 +26,15 @@
   },
   "autoload": {
     "psr-4": {
-      "Subfission\\Cas\\": "src/Subfission/Cas/"
+      "Subfission\\Cas\\": "cas/src/Subfission/Cas/"
     },
     "files": [
-      "src/Subfission/Cas/functions.php"
+      "cas/src/Subfission/Cas/functions.php"
     ]
   },
   "autoload-dev": {
     "psr-4": {
-      "Subfission\\Cas\\Tests\\": "tests"
+      "Subfission\\Cas\\Tests\\": "cas/tests"
     }
   },
   "minimum-stability": "stable",

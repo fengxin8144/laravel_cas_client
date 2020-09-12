@@ -1,5 +1,5 @@
 {
-  "name": "subfission/cas",
+  "name": "fengxin8144/laravel_cas_client",
   "description": "Adds CAS support to Laravel 5.x, 6.x, & 7.x , copy to  subfission/cas",
   "keywords": [
     "CAS",
